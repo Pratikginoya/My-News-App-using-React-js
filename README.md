@@ -11,15 +11,18 @@ Here some screenshots for your reference...
 
 ### Home page of MyNewsApp
 
-![Screenshot (80)](https://github.com/user-attachments/assets/65681740-b19b-472e-8bee-5c25b4201da9)
+![Screenshot (85)](https://github.com/user-attachments/assets/a69a6d7e-d21f-4217-851d-8f8752269004)
+
 
 ### Top loading bar
 
-![Screenshot (81)](https://github.com/user-attachments/assets/b9f91a24-09ee-4cf2-8486-b5bcec957143)
+![Screenshot (84)](https://github.com/user-attachments/assets/f62d8454-870b-4895-9f63-c72aeeaa1c29)
+
 
 ### Infinite scroll
 
-![Screenshot (82)](https://github.com/user-attachments/assets/b1c40ff2-a27e-4d43-a7f9-59611b97c2c3)
+![Screenshot (86)](https://github.com/user-attachments/assets/babf4a89-c1de-4573-a9ee-7dfa9170944c)
+
 
 You can view the detailed news on click of "Read More"
 
