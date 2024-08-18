@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Associated Press",
+      "title": "Russia-Ukraine war: Russian forces launch hypersonic missiles against Ukrainian targets - The Associated Press",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3J1c3NpYS11a3JhaW5lLXdhci1reWl2LWF0dGFjay0zM2FlY2Q1MGNmMjUyZmY2MTg0YzBjMTRmOTA1ODhiNdIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-08T13:58:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "KPRC Click2Houston" },
+      "author": "Caroline Brown, Justin Stapleton, Daji Aswad, Amanda Goluszka",
+      "title": "Hurricane Beryl pushes through SE Texas with heavy rain, strong winds - KPRC Click2Houston",
+      "description": "Tropical bands will become more widespread as Beryl makes landfall Monday morning.",
+      "url": "https://www.click2houston.com/weather/2024/07/07/beryls-rainfall-timeline-for-se-texas/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/NALB2SP3SBCRHCBGAVQTNORH74.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-07-08T13:03:29Z",
+      "content": "As of 7 a.m., Beryl clings to Category 1 hurricane status with maximum sustained winds of 75 mph. The next advisory from the National Hurricane Center will be at 10 a.m. Beryl made landfall at Matago… [+3106 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "Paul Tassi",
+      "title": "Did Aegon Targaryen Actually Die In ‘House Of The Dragon’ Last Night? - Forbes",
+      "description": "Aegon looked like he died in House of the Dragon last night, but despite taking a beating is he actually dead?",
+      "url": "https://www.forbes.com/sites/paultassi/2024/07/08/did-aegon-targaryen-actually-die-in-house-of-the-dragon-last-night/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668bdf39a0b93106efd9ab07/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-07-08T12:50:56Z",
+      "content": "Aegon\r\nHouse of the Dragon\r\nIn last nights thrilling House of the Dragon, the Thrones series best battle since probably Battle of the Bastards, we saw a few high-profile casualties, but with some ope… [+3190 chars]"
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "Leslie Josephs, CNBC",
+      "title": "Air travel demand is breaking records. Airline profits are not. - NBC News",
+      "description": "Record summer air travel demand isn't translating to record U.S. airline profits.",
+      "url": "https://www.nbcnews.com/business/business-news/air-travel-demand-breaking-records-airline-profits-are-not-rcna160663",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/240708-miami-airport-al-0815-580ebd.jpg",
+      "publishedAt": "2024-07-08T12:39:45Z",
+      "content": "Record summer air travel demand isnt translating to record U.S. airline profits. Carriers will have to answer for that disconnect when they report quarterly results this month.\r\nSome airlines have fo… [+5858 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "At least 21 wildfires burn in California amid historic heat wave - CBS Mornings",
+      "description": "California is one of the western states dealing with a historic heat wave as at least 21 wildfires burn, forcing evacuations in parts of the state. Multiple ...",
+      "url": "https://www.youtube.com/watch?v=Vgwi0jTXYA0",
+      "urlToImage": "https://i.ytimg.com/vi/Vgwi0jTXYA0/maxresdefault.jpg",
+      "publishedAt": "2024-07-08T12:32:03Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": "By  RIKKI ZAGELBAUM",
+      "title": "The largest password leak in history exposes nearly 10 billion credentials - The Jerusalem Post",
+      "description": "In response to the leak, they recommend immediately changing the passwords for any accounts associated with the leaked credentials, ensuring each password is strong and unique and not reused.",
+      "url": "https://www.jpost.com/business-and-innovation/article-809428",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/533307",
+      "publishedAt": "2024-07-08T12:13:20Z",
+      "content": "The largest collection of stolen passwords ever has been leaked to a notorious crime marketplace, according to cybersecurity researchers at Cybernews. \r\nThis leak, dubbed RockYou2024 by its original … [+2953 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Greg Norman",
+      "title": "Netanyahu's 4 principles Israel agrees to for hostage deal as negotiations pick up - Fox News",
+      "description": "Israeli Prime Minister Benjamin Netanyahu's office has announced the four principles that it says must be included in any hostage release deal with Hamas.",
+      "url": "https://www.foxnews.com/world/netanyahus-4-principles-israel-agrees-hostage-deal-negotiations-pick-up",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Israel-tanks-Gaza.jpg",
+      "publishedAt": "2024-07-08T12:13:00Z",
+      "content": "The office of Israeli Prime Minister Benjamin Netanyahu has announced four principles that it says must be part of any hostage release deal with the Palestinian terrorist group Hamas. \r\nThe declarati… [+2953 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "TY O'NEIL, CHRISTOPHER WEBER",
+      "title": "Searing heat wave grips large parts of the US and causes deaths in the West - The Associated Press",
+      "description": "A long-running heat wave is gripping the U.S. after causing deaths and shattering records in the West over the weekend. Hot temperatures are predicted again Monday in the West as well as in parts of the East Coast and the South. A visitor to Death Valley Nati…",
+      "url": "https://apnews.com/article/heat-wave-dangerous-high-temperatures-records-3a906d7045cf7eb04604aefec70cda16",
+      "urlToImage": "https://dims.apnews.com/dims4/default/560adf6/2147483647/strip/true/crop/5185x2917+0+270/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2Fa5%2F8ca66180cc939ed3c0947c4805f5%2Fda873e4b5c4e42ca8a105753395ca663",
+      "publishedAt": "2024-07-08T12:12:00Z",
+      "content": "DEATH VALLEY, Calif. (AP) After causing deaths and shattering records in the West over the weekend, a long-running heat wave will again grip the U.S. on Monday, with hot temperatures also predicted f… [+4495 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Investing.com" },
+      "author": "Peter Nurse",
+      "title": "Asia shares firm, euro dogged by French election deadlock By Reuters - Investing.com",
+      "description": "Boeing, Paramount Global, Corning rise premarket; Exxon Mobil, Tesla fall",
+      "url": "https://www.investing.com/news/stock-market-news/boeing-paramount-global-corning-rise-premarket-exxon-mobil-tesla-fall-3509893",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC4F07A_L.jpg",
+      "publishedAt": "2024-07-08T12:10:32Z",
+      "content": "Investing.com -- U.S. stock futures traded in tight ranges Monday, with traders awaiting the release of key inflation data as well as testimony from Fed chief Jerome Powell to Congress this week.<li>… [+1431 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SpaceNews" },
+      "author": "Andrew Jones",
+      "title": "Europe set for crucial first launch of Ariane 6 - SpaceNews",
+      "description": "Europe set for crucial first launch of Ariane 6 Europe is on the brink of a crucial moment as the Ariane 6 launch vehicle prepares for its inaugural flight Tuesday.",
+      "url": "https://spacenews.com/europe-set-for-crucial-first-launch-of-ariane-6/",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2024/07/Ariane_6_final_wet_dress_rehearsal_complete_pillars.jpg",
+      "publishedAt": "2024-07-08T11:41:39Z",
+      "content": "HELSINKI Europe is on the brink of a crucial moment as the Ariane 6 launch vehicle prepares for its inaugural flight Tuesday.\r\nThe Ariane 6 is set to launch from the Kourou launch site in French Guia… [+5047 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "ALEX VEIGA",
+      "title": "The US housing slump deepened this spring. Where does that leave home shoppers and sellers? - The Associated Press",
+      "description": "The nation’s housing market sales slump is dragging on into its third straight year, as evidenced by another weak spring homebuying season. Sales of previously occupied U.S. homes fell in the March-May period from a year earlier, and early June data point to …",
+      "url": "https://apnews.com/article/home-sales-spring-homebuying-season-mortgage-rates-bdd1399e1726e2ca17b622ea48067541",
+      "urlToImage": "https://dims.apnews.com/dims4/default/858affc/2147483647/strip/true/crop/4836x2720+0+252/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3e%2F36%2Fc7991f058fd12f5307a6e6969cb2%2Ff1f76b9fa45f450081ab49e6b767c525",
+      "publishedAt": "2024-07-08T11:31:00Z",
+      "content": "LOS ANGELES (AP) The housing market shows few signs of busting out of its three-year funk after a disappointing spring season and amid a gloomy outlook for the summer and fall.\r\nHome shoppers came in… [+5145 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Media elites, billionaire donors, MAGA extremists: Joe on who Biden can say he's fighting - MSNBC",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=dssslIp-i6E",
+      "urlToImage": null,
+      "publishedAt": "2024-07-08T11:30:52Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "Spanish anti-tourism protesters take aim at Barcelona visitors with water guns - CBS News",
+      "description": "Residents fed up with the impact of mass tourism in Barcelona have staged a mass demonstration, harassing visitors in the Spanish city.",
+      "url": "https://www.cbsnews.com/news/spain-barcelona-tourism-protests-water-guns/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/07/08/4f914a68-3325-49d0-ba33-9b22e0af595e/thumbnail/1200x630/cb4be552570df1ace78800c9c4953bef/gettyimages-2160375973.jpg?v=57e8061b2038d609da26e467de5ddfb8",
+      "publishedAt": "2024-07-08T11:17:01Z",
+      "content": "Thousands of protesters marched through Barcelona over the weekend to express anger at mass tourism and its impacts on Spain's most visited city. Bystanders dining in restaurants in the popular La Ba… [+2843 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Motorsport.com" },
+      "author": "Jake Boxall-Legge",
+      "title": "Seven things we learned at the 2024 British Grand Prix - Motorsport.com",
+      "description": "Lewis Hamilton's first Formula 1 win in 945 days might have headlined this year's rain-affected British Grand Prix, but the rest of the weekend burst at the seams with plotlines and announcements. Here's the biggest stories that emerged in this year's Silvers…",
+      "url": "https://www.motorsport.com/f1/news/seven-things-we-learned-at-the-2024-british-grand-prix/10633073/",
+      "urlToImage": "https://cdn-2.motorsport.com/images/amp/YBeO1Pz2/s6/max-verstappen-red-bull-racing.jpg",
+      "publishedAt": "2024-07-08T11:16:40Z",
+      "content": "The \"classic British summer\" jibes aside, the British Grand Prix weekend faced an atypical barrage of cold and inclement weather - it felt more like a February's half-hearted release of the winter's … [+12879 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "Chloe Melas",
+      "title": "Alec Baldwin's manslaughter trial set to begin in New Mexico - NBC News",
+      "description": "Nearly three years after the fatal shooting of cinematographer Halyna Hutchins on the New Mexico film set of “Rust,” actor Alec Baldwin is set to stand trial.",
+      "url": "https://www.nbcnews.com/news/us-news/alec-baldwins-manslaughter-trial-set-begin-new-mexico-rcna160186",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240125-Alec-Baldwin-ew-445p-975ffb.jpg",
+      "publishedAt": "2024-07-08T11:00:40Z",
+      "content": "Nearly three years after the fatal shooting of cinematographer Halyna Hutchins on the New Mexico film set of Rust, actor Alec Baldwin is set to stand trial.\r\nBaldwin is charged with involuntary mansl… [+4814 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Kim Schewitz",
+      "title": "Scientists lost weight without trying quitting ultra-processed foods - Business Insider",
+      "description": "Professor Barry Smith worked with big names in the food industry but stopped when he realized foods were made to be irresistible, despite health risks.",
+      "url": "https://www.businessinsider.com/scientist-lost-weight-without-trying-quit-ultra-processed-foods-2024-7",
+      "urlToImage": "https://i.insider.com/668808311aace5b3ada4a7e5?width=1200&format=jpeg",
+      "publishedAt": "2024-07-08T10:52:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Sandee LaMotte",
+      "title": "The most devastating sleep disorder of all, according to an expert - CNN",
+      "description": "Ashamed and bewildered by her actions, one woman with an unusual sleep disorder faced challenges when trying to find medical help. Here’s her story.",
+      "url": "https://www.cnn.com/2024/07/08/health/sleep-eating-disorder-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sleep-eating-illo-a-purple.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-07-08T10:20:00Z",
+      "content": "Sign up for CNNs Sleep, But Better newsletter series. Our seven-part guide has helpful hints to achieve better sleep.\r\nJill was in middle school when she began eating in her sleep. Despite carrying t… [+9950 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Ruxandra Iordache",
+      "title": "'Get Britain building again': New UK finance chief restores housing targets - CNBC",
+      "description": "Britain's new finance chief on Monday outlined a spate of measures to revitalize the U.K.'s languishing economic growth and address national housing shortages.",
+      "url": "https://www.cnbc.com/2024/07/08/uk-election-2024-rachel-reeves-announces-growth-measures.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108002482-1720434673987-gettyimages-2160533321-AFP_363C7JU.jpeg?v=1720434690&w=1920&h=1080",
+      "publishedAt": "2024-07-08T10:08:59Z",
+      "content": "Britain's Chancellor of the Exchequer Rachel Reeves delivers a speech at the Treasury, to an audience of leading business figures and senior stakeholders, announcing the first steps the new Labour Go… [+5238 chars]"
+    }
+  ]
+}
