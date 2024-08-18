@@ -14,7 +14,7 @@ Here some screenshots for your reference...
 ![Screenshot (85)](https://github.com/user-attachments/assets/a69a6d7e-d21f-4217-851d-8f8752269004)
 
 
-### Top loading bar
+### Top loading bar & loading spinner
 
 ![Screenshot (84)](https://github.com/user-attachments/assets/f62d8454-870b-4895-9f63-c72aeeaa1c29)
 
